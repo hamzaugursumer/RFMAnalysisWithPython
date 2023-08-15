@@ -12,9 +12,8 @@
 * With RFM analysis, customers can be segmented and sales and marketing tactics and practices can be developed specifically for each segment. This helps companies reasonably estimate which customer segment is more likely to repurchase products, how much revenue/profit is generated from new customers, and how to convert relatively infrequent shoppers into more frequent shoppers.
 
 * :pushpin: Dataset ; https://www.kaggle.com/nathaniel/uci-online-retail-ii-data-set
-* :pushpin:
 
-## Variables:
+## :pushpin: Variables:
 
 | Variable     | Description                                                  |
 |--------------|--------------------------------------------------------------|
