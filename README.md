@@ -43,3 +43,5 @@
 | Potential Loyalists  | 17.054859       | 638           | 2.841693          | 638           | 1009.464625       | 638           |
 | Promising            | 24.159763       | 169           | 1.000000          | 169           | 345.946805        | 169           |
 
+![png-rfm](https://github.com/hamzaugursumer/RFMAnalysisWithPython/blob/main/Rfm%20chart%20png.png)
+
