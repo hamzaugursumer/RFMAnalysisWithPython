@@ -28,7 +28,7 @@
 | Country      | Country name. Indicates the country where the customer resides. |
 
 
-# :computer: Result of RFM analysis
+# :computer: Result of RFM analysis :closed_book:
 |                      |     RECENCY     |               |     FREQUENCY     |               |      MONETARY     |               |
 |----------------------|-----------------|---------------|-------------------|---------------|-------------------|---------------|
 | CUSTOMER SEGMENT     |     MEAN        |     COUNT     |     MEAN          |     COUNT     |      MEAN         |      COUNT    |
@@ -45,6 +45,6 @@
 
 ![png-rfm](https://github.com/hamzaugursumer/RFMAnalysisWithPython/blob/main/Rfm%20chart%20png.png)
 
-# :computer: RFM Analysis Review
+# :computer: RFM Analysis Review :open_book:
 
 
