@@ -1,4 +1,7 @@
-# :computer: RFM Analysis With Python :hourglass: :bar_chart: :moneybag:
+# :computer: **RFM Analysis With Python** :hourglass: :bar_chart: :moneybag:
+
+![png-rfm](https://www.dijitalmecmua.com/wp-content/uploads/2021/09/RFM-analizi-1200x642.jpg)
+
 
 * RFM analysis is a statistical analysis method used to determine basic customer segments by measuring customers’ purchasing habits. RFM stands for Recency, Frequency, and Monetary. It is the process of labeling customers by determining the Recency, Frequency, and Monetary values of their purchases through a scoring model.
 
