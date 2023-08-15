@@ -26,3 +26,5 @@
 | UnitPrice    | Product price (in GBP - British Pounds).                     |
 | CustomerID   | Customer number. A unique number for each customer.         |
 | Country      | Country name. Indicates the country where the customer resides. |
+
+# :computer: Result of RFM analysis
