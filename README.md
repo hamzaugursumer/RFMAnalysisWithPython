@@ -30,7 +30,7 @@
 # :computer: Result of RFM analysis
 |                      |     RECENCY     |               |     FREQUENCY     |               |      MONETARY     |               |
 |----------------------|-----------------|---------------|-------------------|---------------|-------------------|---------------|
-| Customer Segment     |     Mean        | Count         |     Mean          | Count         |      Mean         | Count         |
+| CUSTOMER SEGMENT     |     MEAN        |     COUNT     |     MEAN          |     COUNT     |      MEAN         |      COUNT    |
 | About to Sleep       | 52.726477       | 457           | 1.400438          | 457           | 523.735098        | 457           |
 | At Risk              | 137.774775      | 444           | 4.281532          | 444           | 1827.981466       | 444           |
 | Can't Lose           | 136.272727      | 11            | 19.363636         | 11            | 7028.365455       | 11            |
