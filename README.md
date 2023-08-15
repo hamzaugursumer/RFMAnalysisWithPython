@@ -43,4 +43,3 @@
 | Potential Loyalists  | 17.054859       | 638           | 2.841693          | 638           | 1009.464625       | 638           |
 | Promising            | 24.159763       | 169           | 1.000000          | 169           | 345.946805        | 169           |
 
-![Örnek Resim](C:/Users/OMEN/OneDrive/Masaüstü/Data Analysis/3-PYHTON MODÜLÜ/Rfm chart png.png)
