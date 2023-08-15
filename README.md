@@ -45,3 +45,6 @@
 
 ![png-rfm](https://github.com/hamzaugursumer/RFMAnalysisWithPython/blob/main/Rfm%20chart%20png.png)
 
+# :computer: RFM Analysis Review
+
+
