@@ -27,6 +27,7 @@
 | CustomerID   | Customer number. A unique number for each customer.         |
 | Country      | Country name. Indicates the country where the customer resides. |
 
+
 # :computer: Result of RFM analysis
 |                      |     RECENCY     |               |     FREQUENCY     |               |      MONETARY     |               |
 |----------------------|-----------------|---------------|-------------------|---------------|-------------------|---------------|
@@ -42,3 +43,4 @@
 | Potential Loyalists  | 17.054859       | 638           | 2.841693          | 638           | 1009.464625       | 638           |
 | Promising            | 24.159763       | 169           | 1.000000          | 169           | 345.946805        | 169           |
 
+![Örnek Resim](file:///C:/Users/OMEN/OneDrive/Masa%C3%BCst%C3%BC/Data%20Analysis/3-PYHTON%20MOD%C3%9CL%C3%9C/RFM%20CHART.pdf)
