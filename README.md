@@ -29,7 +29,7 @@
 
 # :computer: Result of RFM analysis
 
-|                      |     RECENCY     |               |     FREQUENCY     |               |      MONETARY     |               |
+|                      |                RECENCY     |               |     FREQUENCY     |               |      MONETARY     |               |
 | Customer Segment     |     Mean        | Count         |     Mean          | Count         |      Mean         | Count         |
 |----------------------|-----------------|---------------|-------------------|---------------|-------------------|---------------|
 | About to Sleep       | 52.726477       | 457           | 1.400438          | 457           | 523.735098        | 457           |
