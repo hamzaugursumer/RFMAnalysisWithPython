@@ -11,4 +11,18 @@
 
 * With RFM analysis, customers can be segmented and sales and marketing tactics and practices can be developed specifically for each segment. This helps companies reasonably estimate which customer segment is more likely to repurchase products, how much revenue/profit is generated from new customers, and how to convert relatively infrequent shoppers into more frequent shoppers.
 
-* Dataset ; https://www.kaggle.com/nathaniel/uci-online-retail-ii-data-set
+* :pushpin: Dataset ; https://www.kaggle.com/nathaniel/uci-online-retail-ii-data-set
+* :pushpin:
+
+## Variables:
+
+| Variable     | Description                                                  |
+|--------------|--------------------------------------------------------------|
+| InvoiceNo    | Invoice number. It is a unique value. If starts with C, indicates a return. |
+| StockCode    | Product code. A unique number for each product.             |
+| Description  | Product name.                                               |
+| Quantity     | Product quantity. Represents the quantity of sold items from invoices. Negative values for items starting with C. |
+| InvoiceDate  | Date and time of the invoice.                               |
+| UnitPrice    | Product price (in GBP - British Pounds).                     |
+| CustomerID   | Customer number. A unique number for each customer.         |
+| Country      | Country name. Indicates the country where the customer resides. |
