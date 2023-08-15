@@ -47,4 +47,4 @@
 
 # :computer: RFM Analysis Review :open_book:
 
-
+* :pushpin: In this section, I will take 2 groups for evaluation and determine their RFM scores and the action decisions that can be taken regarding these groups.
