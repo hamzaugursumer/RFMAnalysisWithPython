@@ -70,5 +70,5 @@
 
 :old_key: Suggestions :
 
-* It is too early to take action in this group, but looking at the groups as a whole, new customers constitute the smallest cluster. The first thing that comes to mind in this case may be the inadequacy of advertising and marketing content. Attracting and winning customers is as difficult as retaining them.
+* It is too early to take action in this group, but looking at the groups as a whole, new customers constitute almost the smallest cluster. The first thing that comes to mind in this case may be the inadequacy of advertising and marketing content. Attracting and winning customers is as difficult as retaining them.
 * Therefore, it seems to be very important to offer personalized product recommendations based on data and to have an advantage over other companies in advertising campaigns.
