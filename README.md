@@ -56,9 +56,19 @@
 * This group shopped on average 1 time.
 * They spent an average of £523.
 
-:old_key: Suggestions
+:old_key: Suggestions :
 
 * The "About to Sleep" segment includes customers whose last purchase was some time ago, with low shopping frequency but high spending.
 * The problem with this group of customers is their shopping frequency and forgetting to shop. The most important action is to remind this group of ourselves frequently and make personalized product recommendations. In addition to the products they buy, different discounts can be applied for the low number of purchases.
 
+:lock: New Customers :
 
+* The average time since purchase in this group is 8 days.
+* There are a total of 89 people in this group.
+* This group shopped on average 1 time.
+* They spent an average of £337.
+
+:old_key: Suggestions :
+
+* It is too early to take action in this group, but looking at the groups as a whole, new customers constitute the smallest cluster. The first thing that comes to mind in this case may be the inadequacy of advertising and marketing content. Attracting and winning customers is as difficult as retaining them.
+* Therefore, it seems to be very important to offer personalized product recommendations based on data and to have an advantage over other companies in advertising campaigns.
